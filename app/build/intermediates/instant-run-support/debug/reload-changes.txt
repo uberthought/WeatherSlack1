@@ -1,0 +1,2 @@
+CHANGED,/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/uberthought/WeatherSlackActivity$UpdateTimeTask$override.class
+CHANGED,/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

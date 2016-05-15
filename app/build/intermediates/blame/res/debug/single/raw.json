@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/res/merged/debug/raw/doc_kml",
+        "source": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/src/main/res/raw/doc_kml"
+    },
+    {
+        "merged": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/res/merged/debug/raw/latest_radaronly_gfw",
+        "source": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/src/main/res/raw/latest_radaronly_gfw"
+    },
+    {
+        "merged": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/res/merged/debug/raw/radarimg_html",
+        "source": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/src/main/res/raw/radarimg_html"
+    },
+    {
+        "merged": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/build/intermediates/res/merged/debug/raw/latest_radaronly_gif",
+        "source": "/home/philip/AndroidStudioProjects/WeatherSlack1/app/src/main/res/raw/latest_radaronly_gif"
+    }
+]
